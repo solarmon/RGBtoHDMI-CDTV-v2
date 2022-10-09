@@ -24,8 +24,21 @@ Special mention to **c0pperdragon** for the original RGBtoHDMI board solution fo
 
 https://github.com/c0pperdragon/Amiga-Digital-Video
 
+## Design Files
+
+### RGBtoHDMI CDTV v2
+
+[RGBtoHDMI CDTV v2](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/tree/main/RGBtoHDMI%20CDTV%20v2)
+
+### RGBtoHDMI CDTV v2 - Denise Breakout
+
+[RGBtoHDMI CDTV v2 - Denise Breakout](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/tree/main/RGBtoHDMI%20CDTV%20v2%20-%20Denise%20Breakout)
+
+### RGBtoHDMI CDTV v2 - Mouse and Joystick Adapter
+[RGBtoHDMI CDTV v2 - Mouse and Joystick Adapter](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/tree/main/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter)
+
 ## Wiki
 
-Please see the [wiki](https://github.com/solarmon/RGBtoHDMI-CDTV/wiki) for further details:
+Please see the [wiki](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/wiki) for further details:
 
 [RGBtoHDMI-CDTV-v2-Quick-Start-Guide](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/wiki/RGBtoHDMI-CDTV-v2-Quick-Start-Guide)
