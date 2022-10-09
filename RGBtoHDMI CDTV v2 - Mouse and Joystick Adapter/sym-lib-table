@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RGBtoHDMI-CDTV-v2---Mouse-and-Joystick-Adapter-rescue")(type "Legacy")(uri "${KIPRJMOD}/RGBtoHDMI CDTV v2 - Mouse and Joystick Adapter-rescue.lib")(options "")(descr ""))
+  (lib (name "RGBtoHDMI-CDTV-v2---Mouse-and-Joystick-Adapter---FFC-Extender-rescue")(type "Legacy")(uri "${KIPRJMOD}/RGBtoHDMI CDTV v2 - Mouse and Joystick Adapter - FFC Extender-rescue.lib")(options "")(descr ""))
+)
