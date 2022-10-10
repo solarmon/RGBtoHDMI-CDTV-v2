@@ -64,13 +64,17 @@ This is the Denise adapter that is required to connect to the main board. It pro
 
 ### RGBtoHDMI CDTV v2 - Mouse and Joystick Adapter
 
-This is the mouse and joystick adapter required to connect to the DB9 ports on the main board.
+This is the mouse and joystick adapter required to connect to the DB9 ports on the main board:
 
 [RGBtoHDMI CDTV v2 - Mouse and Joystick Adapter](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/tree/main/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter)
 
 ![](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/blob/main/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter%20-%20Top.png)
 
 ![](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/blob/main/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter%20-%20Bottom.png)
+
+The adapter uses a 18-pin (1mm pitch) FFC flex cable. A 60cm long flex cable is ideally required. However, if only 30cm long flex cables are available then an FFC extender board can be used to join two of them together:
+
+![](https://github.com/solarmon/RGBtoHDMI-CDTV-v2/blob/main/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter/RGBtoHDMI%20CDTV%20v2%20-%20Mouse%20and%20Joystick%20Adapter%20-%20FFC%20Extender%20-%20Top.png)
 
 ## Wiki
 
