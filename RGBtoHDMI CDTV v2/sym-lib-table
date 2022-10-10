@@ -4,4 +4,5 @@
   (lib (name "rgb2hdmi")(type "Legacy")(uri "${KIPRJMOD}/rgb2hdmi.lib")(options "")(descr ""))
   (lib (name "A500-rescue")(type "Legacy")(uri "${KIPRJMOD}/A500-rescue.lib")(options "")(descr ""))
   (lib (name "RGBtoHDMI-CDTV-v2-rescue")(type "Legacy")(uri "${KIPRJMOD}/RGBtoHDMI CDTV v2-rescue.lib")(options "")(descr ""))
+  (lib (name "RGBtoHDMI-CDTV-v2---Daughter-Board-rescue")(type "Legacy")(uri "${KIPRJMOD}/RGBtoHDMI CDTV v2 - Daughter Board-rescue.lib")(options "")(descr ""))
 )
