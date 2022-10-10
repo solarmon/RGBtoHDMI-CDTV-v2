@@ -34,7 +34,9 @@ https://github.com/c0pperdragon/Amiga-Digital-Video
 
 The design files are available for **KiCAD v6**.
 
-### RGBtoHDMI CDTV v2
+### RGBtoHDMI CDTV v2 (QFP)
+
+This is the Xilinx XC9572XL QFP 44-pin package version.
 
 This is the main RGBtoHDMI board, with daughter board, and face plate:
 
